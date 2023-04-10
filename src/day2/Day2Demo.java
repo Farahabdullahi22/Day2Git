@@ -33,5 +33,7 @@ public class Day2Demo {
 	
 	
 	*/
+	
+	int result = 10;
 
 }
