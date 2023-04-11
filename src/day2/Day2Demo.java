@@ -35,5 +35,7 @@ public class Day2Demo {
 	*/
 	
 	int result = 10;
+	
+	boolean isCitizen = true;
 
 }
